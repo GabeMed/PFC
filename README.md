@@ -28,7 +28,7 @@ O diferencial do sistema é o que chamamos de **raciocínio contrafactual**. Qua
 
 Esse mecanismo é viável no nosso contexto porque operamos sobre um **corpus fechado com regras de precedência conhecidas**. Não estamos pedindo à IA que imagine cenários hipotéticos — estamos pedindo que faça uma rodada adicional de busca e compare o que encontrou contra uma hierarquia conhecida. Os blocos de construção necessários (busca semântica, mapa de precedência, geração com citação) já são componentes padrão de sistemas RAG avançados. O contrafactual emerge da orquestração desses componentes, não de uma capacidade nova e não testada.
 
-Esse tipo de raciocínio não foi encontrado em nenhum sistema de consulta doutrinária militar publicado na literatura consultada.
+Esse tipo de raciocínio não foi encontrado em nenhum sistema quando fizemos na nossa pesquisa, e acreditamos que seria um diferencial interessante para uma tese de fim de curso.
 
 ---
 
