@@ -76,7 +76,7 @@ O motor de contrafactuais se apoia em uma infraestrutura de busca e raciocínio 
 
 | Período | Atividade |
 | :--- | :--- |
-| **Mar–Abr** | Formalização do escopo, configuração do ambiente de desenvolvimento, obtenção e análise do acervo de manuais, construção do mapa de precedência, revisão bibliográfica. |
+| **Mar–Abr** | Definicao do escopo, configuração do ambiente de desenvolvimento, obtenção e análise do acervo de manuais, construção do mapa de precedência, revisão bibliográfica. |
 | **Abr–Mai** | Pipeline de ingestão: processamento dos PDFs, chunking hierárquico, geração de resumos por manual, armazenamento vetorial com metadados. |
 | **Mai–Jul** | Pipeline de busca e raciocínio: busca hierárquica em dois níveis, busca híbrida com reranqueamento, implementação do grafo de estados (LangGraph), interfaces agnósticas, motor de raciocínio contrafactual. |
 | **Jul–Ago** | Exposição MCP, integração de múltiplos LLMs, memória conversacional, refinamento do motor contrafactual. |
